@@ -1,4 +1,4 @@
-# Python, SQL 공부
+# Python, 보안, 취약점 공부
 
 # Flask 백엔드 기본 예제코드
 
