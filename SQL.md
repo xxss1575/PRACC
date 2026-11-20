@@ -40,10 +40,14 @@
 
 
 
-MySQL 기능설명
+# MySQL 기능설명
 
 - ui 위에서 보이는 번개모양의 뜻은 다음과 같다
 - 일반 번개 = 쿼리, 코드 전체를 실행시킨다
 - 1모양이 있는 번개 = 마우스 커서를 갖다댄 코드만 작동한다
+
+# SQL 영상 출처
+- 1. https://www.youtube.com/watch?v=DoGlXWqKqBE&t=3s (홍팍 2시간 30분짜리(MySQL))
+
 
 
