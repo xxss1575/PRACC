@@ -36,7 +36,11 @@
 - 이런식의 테이블은 데이터의 기본 저장 구조라고 생각하면 되고 행(각 속성이 하나로 모여 (묶음)데이터가 됨)과, 열(데이터 속성)로 구성돼어있다
 
 
-# MySQL 기능설명
+<img width="1583" height="866" alt="image" src="https://github.com/user-attachments/assets/345862f7-cd9c-46bf-b488-afe5a3a218a8" />
+
+
+
+MySQL 기능설명
 
 - ui 위에서 보이는 번개모양의 뜻은 다음과 같다
 - 일반 번개 = 쿼리, 코드 전체를 실행시킨다
