@@ -9,6 +9,12 @@
   - 데이터베이스를 SQL같은 언어로 관리하고 수정,삭제,생성등을 편하게 해주는 소프트웨어를 (Database Management System) 줄여서 DBMS라고 부른다
   - My SQL 기본 작성 및 실행순서 SELECT → FROM → JOIN → WHERE → GROUP BY → HAVING → ORDER BY → LIMIT
   - 데이터 파일의 종류는 데이터 파일, 로그파일, 인덱스 파일, 설정파일, 메타데이터 파일 순으로 있고 각 파일마다의 종류
+  - SQL DB에서 CRUD는 DB가 제공하는 기본 동작으로 생각하면 된다 
+  - C(Create) 생성
+  - R(Read) 읽기, 조회
+  - U(Updata) 수정, 변경
+  - D(Delete) 삭제
+     
 
 
 # DB 종류
