@@ -66,6 +66,18 @@
 - MySQL Selcet 사용해서 Hello world 띄우기
 
 
+# 2026년 11월 22일
+- SQL CRUD의 뜻, 실사용
+- postman, wireshark 세팅, 사용하는 이유
+- sql이 돌아가게 해주는 4개의 데이터베이스를 배움 (1. information_schema  2. mysql 3. performance_schema 4. sys)
+- CRAETE로 데이터베이스 생성
+- DROP으로 데이터베이스 삭제
+- SQL 쿼리(Query)에 대해서 
+
+# 핵심 
+1. Delete는 테이블 안에있는 컬럼 데이터를 삭제하는용이고 데이터베이스나 테이블, 객체 전체 삭제는 DROP를 이용
+2. SQL 코드를짤때는 앵간하면 맨 끝에 ; 세미콜론을 붙여준다 
+3. 메타데이터는 데이터속 데이터를 알려주는것이다 
 
 
 
