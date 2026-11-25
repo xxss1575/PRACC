@@ -10,10 +10,16 @@
   - My SQL 기본 작성 및 실행순서 SELECT → FROM → JOIN → WHERE → GROUP BY → HAVING → ORDER BY → LIMIT
   - 데이터 파일의 종류는 데이터 파일, 로그파일, 인덱스 파일, 설정파일, 메타데이터 파일 순으로 있고 각 파일마다의 종류
   - SQL DB에서 CRUD는 DB가 제공하는 기본 동작으로 생각하면 된다 
-  - C(Create) 생성
+  - C(Create) 생성 
   - R(Read) 읽기, 조회
   - U(Updata) 수정, 변경
   - D(Delete) 삭제
+
+(CREATE)데이터 베이스 생성법: CREATE DATABASE 데이터베이스이름;
+(Delete) 삭제법 삭제법은 두가지로 나눠진다 테이블에 있는 컬럼(데이터)만 삭제가능한 Delete 객체, 테이블, 데이터베이스 전체 삭제가 가능한 DROP이 있다 
+- 사용법: DROP 삭제할 데이터 (테이블 or 데이터베이스 or 객체 등등..);
+
+(SQL을 사용할땐 맨 뒤에 ;를 붙여서 코드가 끝났음을 알려줘야한다 거의 상시 붙여주면 된다)
 
 # SQL 동작하는법
 
@@ -32,6 +38,8 @@
 - 그리고 SQL에서 코드가 작성된 문장을 쿼리(query)라고 부른다
 - 첫번째에서 나오는 메타데이터는 데이터에 대한 데이터라고 보면된다
 쉽게 말하면 테이블이 있다고 치면 이 테이블의 이름은 users고 age, email, name 컬럼이 포함, id정보 등 이런 데이터에 대한 구조를 데이터로 보여준다
+
+
 
 
 # DB 종류
@@ -65,9 +73,9 @@
 
 # MySQL 기능설명
 
-- ui 위에서 보이는 번개모양의 뜻은 다음과 같다
-- 일반 번개 = 쿼리, 코드 전체를 실행시킨다
-- 1모양이 있는 번개 = 마우스 커서를 갖다댄 코드만 작동한다
+- MySQL 쿼리 작동법
+<img width="1089" height="468" alt="image" src="https://github.com/user-attachments/assets/61e25f98-7f8c-424b-8d7f-6f575fddaf39" />
+
 
 # SQL 영상 출처
 - 1. https://www.youtube.com/watch?v=DoGlXWqKqBE&t=3s (홍팍 2시간 30분짜리(MySQL))
