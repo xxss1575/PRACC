@@ -72,10 +72,12 @@
 
 <img width="981" height="426" alt="image" src="https://github.com/user-attachments/assets/fdf91c23-278b-4e5b-a26a-b3f847bc4c77" />
 
+
 - /**
   주석 쓸 내용
              **/
   이것을 블록주석이라고 한다
+
 
 
 # MySQL 기능설명
