@@ -64,8 +64,18 @@
 - 이런식의 테이블은 데이터의 기본 저장 구조라고 생각하면 되고 행(각 속성이 하나로 모여 (묶음)데이터가 됨)과, 열(데이터 속성)로 구성돼어있다
 
 
+# 지금까지의 SQL 내용 총 정리 
+
 <img width="1583" height="866" alt="image" src="https://github.com/user-attachments/assets/345862f7-cd9c-46bf-b488-afe5a3a218a8" />
 
+# SQL 주석에 대해서
+
+<img width="981" height="426" alt="image" src="https://github.com/user-attachments/assets/fdf91c23-278b-4e5b-a26a-b3f847bc4c77" />
+
+- /**
+  주석 쓸 내용
+             **/
+  이것을 블록주석이라고 한다
 
 
 # MySQL 기능설명
