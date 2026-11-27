@@ -67,5 +67,4 @@ str(2)
 
 
 
-# 공부 내용 출처
-1. https://www.youtube.com/watch?v=T6z-0dpXPvU&list=PLMsa_0kAjjrcxiSJnHNfzBN71D3zpYtkX (나도코딩 1분 파이썬 모음)
+
