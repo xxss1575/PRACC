@@ -89,8 +89,6 @@
 <img width="1089" height="468" alt="image" src="https://github.com/user-attachments/assets/61e25f98-7f8c-424b-8d7f-6f575fddaf39" />
 
 
-# SQL 영상 출처
-- 1. https://www.youtube.com/watch?v=DoGlXWqKqBE&t=3s (홍팍 2시간 30분짜리(MySQL))
 
 
 
